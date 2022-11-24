@@ -1,2 +1,2 @@
 buenas tardes joseluis, cambios en la primera line, cambios en la primera lineaa
->>>>>>> Stashed changes
+modificacion desde github
